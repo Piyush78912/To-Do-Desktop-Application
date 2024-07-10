@@ -13,8 +13,9 @@ A simple and user-friendly desktop To-Do List Application built using Java's Swi
 - **Customizable Themes**: Choose between Light Pink, Dark Mode, and Light Mode themes.
 - **Error Handling and Feedback**: Clear notifications for task operations and input errors.
 
-## Screenshots
+## Technologies Used
 
-Here is a screenshot of the To-Do List Application:
+- **Java**: Programming language used for building the application.
+- **Swing**: Java library used for creating the graphical user interface (GUI).
+- **Java I/O**: For file operations to save and retrieve tasks.
 
-![To-Do List App Screenshot](screenshots/"C:\Users\hp\OneDrive\Pictures\Screenshots\To Do List.png.png")
