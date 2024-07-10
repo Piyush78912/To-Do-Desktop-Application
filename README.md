@@ -3,7 +3,6 @@ A simple and user-friendly desktop To-Do List Application built using Java's Swi
 
 Features:
 -> Add, Update, and Delete Tasks: Easily manage tasks with intuitive buttons.
-
 -> Mark Tasks as Complete or Incomplete: Keep track of task progress.
 -> View Tasks Based on Status: Filter tasks to view all, completed, or pending tasks.
 -> Customizable Themes: Switch between multiple themes for a personalized experience.
